@@ -152,5 +152,4 @@ class App {
       .openPopup();
   }
 }
-
 const app = new App();
